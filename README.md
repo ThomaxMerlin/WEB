@@ -1,7 +1,7 @@
 ## ✨  E-Commerce Online Shop Design ✨
 E-Commerce Online Shop Design made in HTML5 &amp; SCSS with JavaScript.
 
-https://gosiacodes.github.io/E-Commerce-Online-Shop-Design/
+
 
 ## :pushpin: _How does the website look?_
 
